@@ -1,0 +1,12 @@
+.cabeca{
+    display: flex;
+    justify-content: space-around;
+}
+.menu-hamburguer{
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-image: url(assets/img/AluraBooks/Menu.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
