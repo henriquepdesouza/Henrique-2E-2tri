@@ -1,0 +1,22 @@
+body{
+    background-color: #EBECEE;
+}
+.cabeca{
+    display: flex;
+    justify-content: space-between;
+    background-color:white ;
+    align-items: center;
+}
+.container{
+    margin: 0px 20px ;
+    padding: 0.5em;
+    align-items: center;
+}
+.menu-hamburguer{
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-image: url(assets/img/AluraBooks/Menu.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
